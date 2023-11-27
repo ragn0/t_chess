@@ -1,0 +1,14 @@
+TODO:
+    - check_legal_move()
+    - is_pinned()
+    - move_piece()
+    - is_checkmate()
+    - is_check()
+    - short and long castling
+    - en passant
+e2e4	Muovi un pezzo da e2 a e4
+5254	Muovi un pezzo da e2 a e4
+Nc3	Muovi un cavallo in c3
+O-O	Arrocco corto
+O-O-O	Arrocco lungo
+c8=Q	Promuovi il pedone c8 a regina
